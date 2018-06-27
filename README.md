@@ -1,2 +1,2 @@
 # CS61B-Data-Structures
-Code for CS61B
+My code for CS61B projects and homework assignments (18Spring)
