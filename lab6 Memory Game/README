@@ -1,0 +1,4 @@
+A Simple Memory Game
+May 2018 J. YIN
+Player types in a randomly generated target string of characters after it is briefly displayed on the screen one letter at a time.
+For each successful string entered, the game gets harder by making the target string longer.
